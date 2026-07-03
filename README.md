@@ -1,13 +1,14 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Rishabh01487/Rishabh-s-Portfolio/master/assets/profile-banner.svg" width="800" height="200" alt="Rishabh Gupta Banner">
+  <img src="https://raw.githubusercontent.com/Rishabh01487/Rishabh-s-Portfolio/master/assets/profile.jpeg" width="140" height="140" style="border-radius:50%;border:3px solid #c9a0dc;" alt="Rishabh Gupta">
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Rishabh01487/Rishabh-s-Portfolio/master/assets/profile.jpeg" width="150" height="150" style="border-radius:50%;border:4px solid #c9a0dc;box-shadow:0 0 25px rgba(201,160,220,0.4);" alt="Rishabh Gupta">
+  <img src="https://raw.githubusercontent.com/Rishabh01487/Rishabh-s-Portfolio/master/assets/signature.jpeg" width="280" alt="Signature">
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Rishabh01487/Rishabh-s-Portfolio/master/assets/signature.jpeg" width="300" alt="Signature">
+  <strong>Full-Stack Developer · AI & Social Impact · Building for Bharat</strong><br>
+  <em>"Driven by curiosity and desire to solve complex societal challenges — leveraging technology for social good."</em>
 </p>
 
 <p align="center">
@@ -53,7 +54,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rishabh01487&color=967bb6&style=flat-square&label=Profile+Views" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=Rishabh01487&color=c9a0dc&style=flat-square&label=Profile+Views" alt="Profile Views">
 </p>
 
 <p align="center">
