@@ -1,19 +1,13 @@
-# &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Rishabh Gupta
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Rishabh01487/Rishabh-s-Portfolio/master/assets/profile.jpeg" width="160" height="160" style="border-radius:50%;border:4px solid #c9a0dc;box-shadow:0 0 25px rgba(201,160,220,0.4);">
+  <img src="https://raw.githubusercontent.com/Rishabh01487/Rishabh-s-Portfolio/master/assets/profile-banner.svg" width="800" height="200" alt="Rishabh Gupta Banner">
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Rishabh01487/Rishabh-s-Portfolio/master/assets/signature.jpeg" width="300">
+  <img src="https://raw.githubusercontent.com/Rishabh01487/Rishabh-s-Portfolio/master/assets/profile.jpeg" width="150" height="150" style="border-radius:50%;border:4px solid #c9a0dc;box-shadow:0 0 25px rgba(201,160,220,0.4);" alt="Rishabh Gupta">
 </p>
 
 <p align="center">
-  <strong>Full-Stack Developer · AI & Social Impact · Building for Bharat</strong>
-</p>
-
-<p align="center">
-  <em>"Driven by curiosity and desire to solve complex societal challenges — leveraging technology for social good."</em>
+  <img src="https://raw.githubusercontent.com/Rishabh01487/Rishabh-s-Portfolio/master/assets/signature.jpeg" width="300" alt="Signature">
 </p>
 
 <p align="center">
