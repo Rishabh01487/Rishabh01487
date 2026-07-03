@@ -1,4 +1,6 @@
-<h1 align="center">Rishabh Gupta</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rishabh01487/Rishabh-s-Portfolio/master/assets/page-bg.jpeg" width="100%" alt="Banner">
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Rishabh01487/Rishabh-s-Portfolio/master/assets/profile.jpeg" width="150" alt="Rishabh Gupta">
