@@ -12,9 +12,9 @@
 |---------|-------------|-------|
 | [**AgriEazy**](https://agrieasy-com1.vercel.app) | Agricultural trading platform connecting farmers, buyers & transporters | TypeScript |
 | [**MockMate**](https://mockmate-mu-one.vercel.app) | AI-powered interview preparation platform | JavaScript |
-| [**Averon**](https://averon-amber.vercel.app) | Blockchain-based asset tokenization platform — asset-backed financing through tokenization | JavaScript |
+| [**Averon**](https://averon-amber.vercel.app) | Blockchain-Based Asset Tokenization Platform — Asset-backed Financing Through Tokenization | Blockchain |
 | [**SysWizard**](https://github.com/Rishabh01487/SysWizard) | System design visualizer & wizard | JavaScript |
-| [**Arvitta**](https://github.com/Rishabh01487/Project-Arvitta) | Project management & collaboration platform | JavaScript |
+| [**Arvitta**](https://github.com/Rishabh01487/Project-Arvitta) | B2B Payment Orchestration Platform For Vendor Payouts And Ledger Management | JavaScript |
 
 ## 🛠️ Tech Stack
 
