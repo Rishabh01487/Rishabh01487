@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="48" viewBox="0 0 200 48">
+  <defs>
+    <linearGradient id="eg" gradientUnits="userSpaceOnUse" x1="-200" y1="0" x2="200" y2="0">
+      <stop offset="0" stop-color="#ED213A"/>
+      <stop offset="0.25" stop-color="#F09819"/>
+      <stop offset="0.5" stop-color="#ED213A"/>
+      <stop offset="0.75" stop-color="#F09819"/>
+      <stop offset="1" stop-color="#ED213A"/>
+      <animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="200 0" dur="3s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="198" height="46" rx="23" fill="url(#eg)"/>
+  <g stroke="#ffffff" stroke-width="2" fill="none">
+    <rect x="24" y="17" width="20" height="14" rx="2.5"/>
+    <polyline points="24.5,19 34,27 43.5,19"/>
+  </g>
+  <text x="52" y="29.5" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="2" fill="#ffffff">EMAIL ME</text>
+</svg>

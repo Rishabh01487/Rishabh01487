@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Rishabh%20Gupta&fontSize=62&fontColor=ffffff&stroke=B392F1&strokeWidth=1&desc=Full-Stack%20Developer%20%C2%B7%20Building%20for%20Bharat&descSize=17&descAlignY=74&descAlign=50&color=0:0D1117,50:7B68EE,100:C71585&animation=fadeIn&section=header" alt="Rishabh Gupta — animated banner"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Rishabh%20Gupta&fontSize=62&fontColor=ffffff&stroke=B392F1&strokeWidth=1&desc=Full-Stack%20Developer%20%C2%B7%20AI%20%26%20Social%20Impact&descSize=17&descAlignY=74&descAlign=50&color=0:0D1117,50:7B68EE,100:C71585&animation=fadeIn&section=header" alt="Rishabh Gupta — animated banner"/>
 </p>
 
 <p align="center">
@@ -11,33 +11,14 @@
 </p>
 
 <p align="center">
-  <a href="https://rishabh-portfolio-steel.vercel.app"><img src="https://img.shields.io/badge/Portfolio-7b68ee?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" alt="Portfolio"/></a>&nbsp;
-  <a href="mailto:rishabhgupta999175@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email"/></a>&nbsp;
-  <a href="https://github.com/Rishabh01487"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub"/></a>
+  <a href="https://rishabh-portfolio-steel.vercel.app"><img src="./assets/btn-portfolio.svg" height="42" alt="Portfolio"/></a>&nbsp;&nbsp;
+  <a href="mailto:rishabhgupta999175@gmail.com"><img src="./assets/btn-email.svg" height="42" alt="Email Me"/></a>&nbsp;&nbsp;
+  <a href="https://github.com/Rishabh01487"><img src="./assets/btn-github.svg" height="42" alt="GitHub"/></a>
 </p>
 
 <p align="center">
   <img src="./assets/open-to-work.svg" width="230" alt="Open to opportunities"/>
 </p>
-
----
-
-## ⚡ Boot Sequence
-
-```bash
-rishabh@github:~$ whoami
-> Full-Stack Developer · AI & Social Impact · Building for Bharat 🇮🇳
-
-rishabh@github:~$ cat mission.txt
-> "Driven by curiosity and the desire to solve complex societal
->  challenges — leveraging technology for social good."
-
-rishabh@github:~$ ls ./superpowers
-> fast-shipping/   clean-architecture/   ai-agents/   chai-driven-dev/
-
-rishabh@github:~$ sudo systemctl start build-the-future.service
-> [██████████████████████████████] 100% — mission accepted ✔
-```
 
 ---
 
@@ -87,7 +68,7 @@ rishabh@github:~$ sudo systemctl start build-the-future.service
 
 ---
 
-## ⚙️ Under the Hood
+## ⛓️ Blockchain Explorer
 
 <p align="center">
   <img src="./assets/tech-universe.png" width="100%" alt="Compilers to Blockchain — my tech universe"/>
@@ -97,7 +78,7 @@ rishabh@github:~$ sudo systemctl start build-the-future.service
 
 ## 🌱 Current Focus
 
-- 🌾 **Agriculture & Rural Tech** — AI-powered platforms for Bharat
+- 🌾 **Agriculture & Rural Tech** — AI-powered platforms for farmers
 - 🧠 **SLMs & AI Agents** — Small Language Model training
 - 🌐 **Full-Stack Impact** — Real-world social impact products
 
