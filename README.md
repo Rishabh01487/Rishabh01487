@@ -71,7 +71,7 @@
 ## ⛓️ Blockchain Explorer
 
 <p align="center">
-  <img src="./assets/tech-universe.png" width="100%" alt="Compilers to Blockchain — my tech universe"/>
+  <img src="./assets/tech-universe.png" width="100%" alt="Blockchain — streams of light flowing through a glass block"/>
 </p>
 
 ---
