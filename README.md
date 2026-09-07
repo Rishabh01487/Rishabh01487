@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&pause=1200&color=B392F1&center=true&vCenter=true&random=false&width=640&height=45&lines=Hey%2C+I%27m+a+Full-Stack+Developer+%F0%9F%8C%90;I+build+AI+%2B+AgriTech+products+for+Bharat+%F0%9F%8C%BE;Blockchain+Explorer+%F0%9F%94%97;Turning+curiosity+into+impact+%F0%9F%9A%80" alt="Typing animation"/>
+  <strong><em>Forging a Path in Software Engineering</em></strong>
 </p>
 
 <p align="center">
@@ -60,48 +60,6 @@ rishabh@github:~$ sudo systemctl start build-the-future.service
   <img src="https://raw.githubusercontent.com/Rishabh01487/Rishabh01487/output/github-contribution-grid-snake.svg" alt="Snake eating my contributions" width="100%"/>
 </p>
 
-<p align="center"><em>The snake grows with every commit. Feed the snake. 🐍</em></p>
-
-<details>
-<summary><b>🎯 Secret Level — click to unlock</b></summary>
-<br>
-
-- 🌾 Built a platform so farmers can trade directly — no middlemen
-- 🧠 Currently teaching small language models some very big tricks
-- ☕ Debugs 2x faster with chai than with coffee
-- 🏗️ Believes the best code is the one that changes someone's life
-
-</details>
-
----
-
-## 📊 Player Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rishabh01487&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh01487&layout=compact&theme=radical&hide_border=true&bg_color=00000000" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img width="68%" src="https://streak-stats.demolab.com?user=Rishabh01487&hide_border=true&background=00000000&stroke=7B68EE&ring=D341F2&fire=D341F2&currStreakLabel=D341F2&sideLabels=B392F1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub Streak"/>
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rishabh01487&bg_color=00000000&color=B392F1&line=C71585&point=FFFFFF&area=true&area_color=7B68EE&hide_border=true" alt="Contribution activity graph"/>
-</p>
-
----
-
-## 🏆 Trophy Cabinet
-
-<p align="center">
-  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=Rishabh01487&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
-</p>
-
 ---
 
 ## 🛠️ Tech Arsenal
@@ -123,33 +81,9 @@ rishabh@github:~$ sudo systemctl start build-the-future.service
 
 ---
 
-## 🖥️ The Battle Station
-
 <p align="center">
-  <img src="./assets/battle-station.png" width="100%" alt="My desk setup — battle station"/>
+  <img src="./assets/battle-station.png" width="100%" alt="My workspace — bright minimal desk with Naval Ravikant quotes on the wall"/>
 </p>
-
-<p align="center"><em>VS Code + terminal + lo-fi + chai — the holy trinity of shipping.</em></p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/OS-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/OS-Windows-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows"/>
-  <img src="https://img.shields.io/badge/Editor-VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Shell-zsh-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="zsh"/>
-  <img src="https://img.shields.io/badge/Browser-Chrome-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Chrome"/>
-  <img src="https://img.shields.io/badge/Font-Fira_Code-7B68EE?style=flat-square&logoColor=white" alt="Fira Code"/>
-</p>
-
-| Slot | Loadout |
-|------|---------|
-| 💻 **Machine** | Laptop · 16GB RAM · runs Docker + 47 Chrome tabs without tears |
-| 🐧 **OS** | Linux (daily driver) · Windows (when it misbehaves) |
-| 🧑‍💻 **Editor** | VS Code — dark theme, ligatures ON |
-| 🖥️ **Terminal** | zsh + oh-my-zsh — keyboard-only gang |
-| 🌐 **Browser** | Chrome — DevTools is my second home |
-| ⌨️ **Font** | Fira Code |
-| 🎧 **Soundtrack** | Lo-fi beats to ship code to |
-| ☕ **Fuel** | Chai > Coffee (fight me) |
 
 ---
 
@@ -158,20 +92,6 @@ rishabh@github:~$ sudo systemctl start build-the-future.service
 <p align="center">
   <img src="./assets/tech-universe.png" width="100%" alt="Compilers to Blockchain — my tech universe"/>
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/🔬_Compiler_Design-Lexers_%E2%86%92_Parsers_%E2%86%92_ASTs_%E2%86%92_Codegen-7B68EE?style=for-the-badge&labelColor=0d1117" alt="Compiler Design"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/⛓️_Blockchain_Internals-EVM_·_Tokenization_·_Smart_Contracts-C71585?style=for-the-badge&labelColor=0d1117" alt="Blockchain Internals"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/🖥️_Systems-Linux_·_Docker_·_CI/CD_·_Networking-2EA043?style=for-the-badge&labelColor=0d1117" alt="Systems"/>
-</p>
-
-- 🔬 **Compilers** — how code actually becomes machine action: lexing, parsing, ASTs, codegen
-- ⛓️ **Blockchain** — EVM internals, asset tokenization, smart-contract security
-- 🖥️ **Systems** — Docker under the hood, Linux, how things really work below the abstractions
 
 ---
 
