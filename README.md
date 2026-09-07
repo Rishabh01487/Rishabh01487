@@ -63,7 +63,7 @@
 ---
 
 <p align="center">
-  <img src="./assets/battle-station.png" width="100%" alt="My workspace — bright minimal desk with Naval Ravikant quotes on the wall"/>
+  <img src="./assets/battle-station.png" width="100%" alt="My workspace — bright minimal room, NYC skyline, wall art: First principles >> conventions"/>
 </p>
 
 ---

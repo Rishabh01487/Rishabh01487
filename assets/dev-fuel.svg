@@ -16,40 +16,16 @@
 
   <!-- Quote 1 : two lines -->
   <g opacity="1">
-    <animate attributeName="opacity" values="1;1;0;0;0" keyTimes="0;0.13;0.17;0.98;1" dur="36s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;1;0;0;0" keyTimes="0;0.42;0.48;0.98;1" dur="16s" repeatCount="indefinite"/>
     <text x="470" y="64" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="25" font-style="italic" fill="#E6EDF3">Peruse what captivates you until the pursuit</text>
     <text x="470" y="96" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="25" font-style="italic" fill="#E6EDF3">of knowledge becomes an intrinsic proclivity.</text>
   </g>
 
   <!-- Quote 2 : two lines -->
   <g opacity="0">
-    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.13;0.17;0.30;0.34;1" dur="36s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.42;0.48;0.94;1" dur="16s" repeatCount="indefinite"/>
     <text x="470" y="64" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="25" font-style="italic" fill="#E6EDF3">Technology is the instrumentalization</text>
     <text x="470" y="96" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="25" font-style="italic" fill="#E6EDF3">of scientific knowledge toward pragmatic ends.</text>
-  </g>
-
-  <!-- Quote 3 -->
-  <g opacity="0">
-    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.30;0.34;0.47;0.51;1" dur="36s" repeatCount="indefinite"/>
-    <text x="470" y="80" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="25" font-style="italic" fill="#E6EDF3">Code and media are permissionless leverage.</text>
-  </g>
-
-  <!-- Quote 4 -->
-  <g opacity="0">
-    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.47;0.51;0.63;0.67;1" dur="36s" repeatCount="indefinite"/>
-    <text x="470" y="80" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="25" font-style="italic" fill="#E6EDF3">Play long-term games with long-term people.</text>
-  </g>
-
-  <!-- Quote 5 -->
-  <g opacity="0">
-    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.63;0.67;0.80;0.84;1" dur="36s" repeatCount="indefinite"/>
-    <text x="470" y="80" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="25" font-style="italic" fill="#E6EDF3">Escape competition through authenticity.</text>
-  </g>
-
-  <!-- Quote 6 -->
-  <g opacity="0">
-    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.80;0.84;0.95;1" dur="36s" repeatCount="indefinite"/>
-    <text x="470" y="80" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="25" font-style="italic" fill="#E6EDF3">Learn to sell. Learn to build.</text>
   </g>
 
   <text x="470" y="140" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" letter-spacing="2" fill="#B392F1">&#8212; NAVAL RAVIKANT</text>
