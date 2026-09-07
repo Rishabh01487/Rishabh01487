@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="230" height="36" viewBox="0 0 230 36">
+  <rect x="1.5" y="1.5" width="227" height="33" rx="16.5" fill="#0D1117" stroke="#238636" stroke-width="1.5"/>
+
+  <!-- Pulsing glow ring -->
+  <circle cx="26" cy="18" r="7" fill="none" stroke="#2EA043" stroke-width="2">
+    <animate attributeName="r" values="6;13" dur="1.6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.8;0" dur="1.6s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Solid status dot -->
+  <circle cx="26" cy="18" r="5.5" fill="#2EA043">
+    <animate attributeName="opacity" values="1;0.45;1" dur="1.6s" repeatCount="indefinite"/>
+  </circle>
+
+  <text x="46" y="23" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#3FB950">Open to opportunities</text>
+</svg>
