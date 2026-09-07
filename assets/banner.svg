@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="280" viewBox="0 0 1440 280" role="img" aria-label="Rishabh Gupta — Full-Stack Developer · AI and Social Impact">
+  <defs>
+    <linearGradient id="flow" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1440" y2="0">
+      <stop offset="0" stop-color="#7B68EE"/>
+      <stop offset="0.25" stop-color="#C71585"/>
+      <stop offset="0.5" stop-color="#B392F1"/>
+      <stop offset="0.75" stop-color="#C71585"/>
+      <stop offset="1" stop-color="#7B68EE"/>
+      <animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="1440 0" dur="6s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="flow2" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1440" y2="0">
+      <stop offset="0" stop-color="#C71585"/>
+      <stop offset="0.5" stop-color="#7B68EE"/>
+      <stop offset="1" stop-color="#C71585"/>
+      <animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="1440 0" dur="9s" repeatCount="indefinite"/>
+    </linearGradient>
+    <pattern id="dots" width="56" height="56" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.6" fill="#7B68EE"/>
+    </pattern>
+  </defs>
+
+  <rect width="1440" height="280" fill="#0D1117"/>
+  <rect width="1440" height="280" fill="url(#dots)" opacity="0.16"/>
+
+  <!-- back wave -->
+  <g opacity="0.4">
+    <path fill="url(#flow2)" d="M0 216 Q 180 186 360 216 T 720 216 T 1080 216 T 1440 216 T 1800 216 T 2160 216 L2160 280 L0 280 Z">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-720 0" dur="11s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <!-- front wave -->
+  <path fill="url(#flow)" opacity="0.92" d="M0 234 Q 180 206 360 234 T 720 234 T 1080 234 T 1440 234 T 1800 234 T 2160 234 L2160 280 L0 280 Z">
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="-720 0" dur="7s" repeatCount="indefinite"/>
+  </path>
+
+  <g>
+    <animate attributeName="opacity" from="0" to="1" dur="1s" fill="freeze"/>
+    <text x="720" y="110" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="62" font-weight="800" letter-spacing="10" fill="#FFFFFF">RISHABH GUPTA</text>
+    <rect x="610" y="130" width="220" height="4" rx="2" fill="url(#flow)"/>
+    <text x="720" y="174" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="17" font-weight="600" letter-spacing="3.5" fill="#B392F1">FULL-STACK DEVELOPER &#183; AI &amp; SOCIAL IMPACT</text>
+  </g>
+</svg>

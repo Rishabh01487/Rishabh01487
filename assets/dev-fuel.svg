@@ -1,42 +1,56 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="860" height="150" viewBox="0 0 860 150">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="170" viewBox="0 0 900 170">
   <defs>
-    <linearGradient id="border" gradientUnits="userSpaceOnUse" x1="-860" y1="0" x2="860" y2="0">
+    <linearGradient id="border" gradientUnits="userSpaceOnUse" x1="-900" y1="0" x2="900" y2="0">
       <stop offset="0" stop-color="#7B68EE"/>
       <stop offset="0.25" stop-color="#C71585"/>
       <stop offset="0.5" stop-color="#B392F1"/>
       <stop offset="0.75" stop-color="#C71585"/>
       <stop offset="1" stop-color="#7B68EE"/>
-      <animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="860 0" dur="6s" repeatCount="indefinite"/>
+      <animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="900 0" dur="6s" repeatCount="indefinite"/>
     </linearGradient>
   </defs>
 
-  <rect x="2" y="2" width="856" height="146" rx="16" fill="#0D1117" stroke="url(#border)" stroke-width="2.5"/>
+  <rect x="2" y="2" width="896" height="166" rx="16" fill="#0D1117" stroke="url(#border)" stroke-width="2.5"/>
 
-  <text x="42" y="92" font-family="Georgia, 'Times New Roman', serif" font-size="88" font-weight="700" fill="#7B68EE" opacity="0.55">&#8220;</text>
+  <text x="42" y="105" font-family="Georgia, 'Times New Roman', serif" font-size="88" font-weight="700" fill="#7B68EE" opacity="0.55">&#8220;</text>
 
-  <!-- Quote 1 -->
+  <!-- Quote 1 : two lines -->
   <g opacity="1">
-    <animate attributeName="opacity" values="1;1;0;0;0" keyTimes="0;0.22;0.28;0.97;1" dur="24s" repeatCount="indefinite"/>
-    <text x="440" y="72" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="25" font-style="italic" fill="#E6EDF3">Code and media are permissionless leverage.</text>
+    <animate attributeName="opacity" values="1;1;0;0;0" keyTimes="0;0.13;0.17;0.98;1" dur="36s" repeatCount="indefinite"/>
+    <text x="470" y="64" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="25" font-style="italic" fill="#E6EDF3">Peruse what captivates you until the pursuit</text>
+    <text x="470" y="96" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="25" font-style="italic" fill="#E6EDF3">of knowledge becomes an intrinsic proclivity.</text>
   </g>
 
-  <!-- Quote 2 -->
+  <!-- Quote 2 : two lines -->
   <g opacity="0">
-    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.22;0.28;0.47;0.53;1" dur="24s" repeatCount="indefinite"/>
-    <text x="440" y="72" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="25" font-style="italic" fill="#E6EDF3">Play long-term games with long-term people.</text>
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.13;0.17;0.30;0.34;1" dur="36s" repeatCount="indefinite"/>
+    <text x="470" y="64" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="25" font-style="italic" fill="#E6EDF3">Technology is the instrumentalization</text>
+    <text x="470" y="96" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="25" font-style="italic" fill="#E6EDF3">of scientific knowledge toward pragmatic ends.</text>
   </g>
 
   <!-- Quote 3 -->
   <g opacity="0">
-    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.47;0.53;0.72;0.78;1" dur="24s" repeatCount="indefinite"/>
-    <text x="440" y="72" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="25" font-style="italic" fill="#E6EDF3">Escape competition through authenticity.</text>
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.30;0.34;0.47;0.51;1" dur="36s" repeatCount="indefinite"/>
+    <text x="470" y="80" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="25" font-style="italic" fill="#E6EDF3">Code and media are permissionless leverage.</text>
   </g>
 
   <!-- Quote 4 -->
   <g opacity="0">
-    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.72;0.78;0.95;1" dur="24s" repeatCount="indefinite"/>
-    <text x="440" y="72" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="25" font-style="italic" fill="#E6EDF3">Learn to sell. Learn to build.</text>
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.47;0.51;0.63;0.67;1" dur="36s" repeatCount="indefinite"/>
+    <text x="470" y="80" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="25" font-style="italic" fill="#E6EDF3">Play long-term games with long-term people.</text>
   </g>
 
-  <text x="440" y="115" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" letter-spacing="2" fill="#B392F1">&#8212; NAVAL RAVIKANT</text>
+  <!-- Quote 5 -->
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.63;0.67;0.80;0.84;1" dur="36s" repeatCount="indefinite"/>
+    <text x="470" y="80" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="25" font-style="italic" fill="#E6EDF3">Escape competition through authenticity.</text>
+  </g>
+
+  <!-- Quote 6 -->
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.80;0.84;0.95;1" dur="36s" repeatCount="indefinite"/>
+    <text x="470" y="80" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="25" font-style="italic" fill="#E6EDF3">Learn to sell. Learn to build.</text>
+  </g>
+
+  <text x="470" y="140" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" letter-spacing="2" fill="#B392F1">&#8212; NAVAL RAVIKANT</text>
 </svg>

@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Rishabh%20Gupta&fontSize=62&fontColor=ffffff&stroke=B392F1&strokeWidth=1&desc=Full-Stack%20Developer%20%C2%B7%20AI%20%26%20Social%20Impact&descSize=17&descAlignY=74&descAlign=50&color=0:0D1117,50:7B68EE,100:C71585&animation=fadeIn&section=header" alt="Rishabh Gupta — animated banner"/>
+  <img width="100%" src="./assets/banner.svg" alt="Rishabh Gupta — animated banner"/>
 </p>
 
 <p align="center">
@@ -78,16 +78,16 @@
 
 ## 🌱 Current Focus
 
-- 🌾 **Agriculture & Rural Tech** — AI-powered platforms for farmers
-- 🧠 **SLMs & AI Agents** — Small Language Model training
-- 🌐 **Full-Stack Impact** — Real-world social impact products
+<p align="center">
+  <img src="./assets/focus.svg" width="680" alt="SLMs · LLMs · Blockchain · Architecture"/>
+</p>
 
 ---
 
 ## 💭 Dev Fuel
 
 <p align="center">
-  <img src="./assets/dev-fuel.svg" width="820" alt="Rotating Naval Ravikant quotes"/>
+  <img src="./assets/dev-fuel.svg" width="860" alt="Naval Ravikant quotes"/>
 </p>
 
 ---
@@ -101,5 +101,5 @@
 <p align="center"><b>⭐ Like what you see? Star a repo & follow the journey!</b></p>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=ffffff&color=0:C71585,50:7B68EE,100:0D1117" alt="Footer wave"/>
+  <img width="100%" src="./assets/footer-wave.svg" alt="Footer wave"/>
 </p>

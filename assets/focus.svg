@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="76" viewBox="0 0 900 76" role="img" aria-label="Current focus: SLMs, LLMs, Blockchain, Architecture">
+  <defs>
+    <linearGradient id="fg" gradientUnits="userSpaceOnUse" x1="-900" y1="0" x2="900" y2="0">
+      <stop offset="0" stop-color="#7B68EE"/>
+      <stop offset="0.25" stop-color="#C71585"/>
+      <stop offset="0.5" stop-color="#B392F1"/>
+      <stop offset="0.75" stop-color="#E8B44A"/>
+      <stop offset="1" stop-color="#7B68EE"/>
+      <animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="900 0" dur="6s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Pill 1 : SLMs -->
+  <g font-family="'Segoe UI',Helvetica,Arial,sans-serif">
+    <rect x="1" y="9" width="208" height="58" rx="29" fill="#0D1117" stroke="url(#fg)" stroke-width="2"/>
+    <g transform="translate(26,27)" fill="none" stroke="#B392F1" stroke-width="1.8" stroke-linecap="round">
+      <rect x="5" y="5" width="12" height="12" rx="2"/>
+      <rect x="9" y="9" width="4" height="4"/>
+      <line x1="8" y1="5" x2="8" y2="2"/><line x1="14" y1="5" x2="14" y2="2"/>
+      <line x1="8" y1="17" x2="8" y2="20"/><line x1="14" y1="17" x2="14" y2="20"/>
+      <line x1="5" y1="8" x2="2" y2="8"/><line x1="5" y1="14" x2="2" y2="14"/>
+      <line x1="17" y1="8" x2="20" y2="8"/><line x1="17" y1="14" x2="20" y2="14"/>
+    </g>
+    <text x="58" y="45" font-size="19" font-weight="700" fill="#E6EDF3">SLMs</text>
+  </g>
+
+  <!-- Pill 2 : LLMs -->
+  <g font-family="'Segoe UI',Helvetica,Arial,sans-serif">
+    <rect x="231" y="9" width="208" height="58" rx="29" fill="#0D1117" stroke="url(#fg)" stroke-width="2"/>
+    <g transform="translate(256,27)" fill="none" stroke="#C71585" stroke-width="1.8" stroke-linecap="round">
+      <circle cx="11" cy="11" r="3"/>
+      <circle cx="11" cy="3" r="2"/><circle cx="19" cy="11" r="2"/>
+      <circle cx="11" cy="19" r="2"/><circle cx="3" cy="11" r="2"/>
+      <line x1="11" y1="8" x2="11" y2="5"/><line x1="14" y1="11" x2="17" y2="11"/>
+      <line x1="11" y1="14" x2="11" y2="17"/><line x1="8" y1="11" x2="5" y2="11"/>
+    </g>
+    <text x="288" y="45" font-size="19" font-weight="700" fill="#E6EDF3">LLMs</text>
+  </g>
+
+  <!-- Pill 3 : Blockchain -->
+  <g font-family="'Segoe UI',Helvetica,Arial,sans-serif">
+    <rect x="461" y="9" width="208" height="58" rx="29" fill="#0D1117" stroke="url(#fg)" stroke-width="2"/>
+    <g transform="translate(486,27)" fill="none" stroke="#E8B44A" stroke-width="1.8" stroke-linecap="round">
+      <rect x="2" y="7.5" width="8" height="7" rx="2"/>
+      <rect x="12" y="7.5" width="8" height="7" rx="2"/>
+      <line x1="10" y1="11" x2="12" y2="11"/>
+    </g>
+    <text x="518" y="45" font-size="19" font-weight="700" fill="#E6EDF3">Blockchain</text>
+  </g>
+
+  <!-- Pill 4 : Architecture -->
+  <g font-family="'Segoe UI',Helvetica,Arial,sans-serif">
+    <rect x="691" y="9" width="208" height="58" rx="29" fill="#0D1117" stroke="url(#fg)" stroke-width="2"/>
+    <g transform="translate(716,27)" fill="none" stroke="#7B68EE" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M3 9 L11 3 L19 9"/>
+      <line x1="6.5" y1="11" x2="6.5" y2="16.5"/>
+      <line x1="11" y1="11" x2="11" y2="16.5"/>
+      <line x1="15.5" y1="11" x2="15.5" y2="16.5"/>
+      <line x1="4" y1="19" x2="18" y2="19"/>
+    </g>
+    <text x="748" y="45" font-size="19" font-weight="700" fill="#E6EDF3">Architecture</text>
+  </g>
+</svg>

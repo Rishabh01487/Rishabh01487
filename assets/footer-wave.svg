@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="120" viewBox="0 0 1440 120" role="img" aria-label="Thanks for visiting!">
+  <defs>
+    <linearGradient id="wflow" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1440" y2="0">
+      <stop offset="0" stop-color="#C71585"/>
+      <stop offset="0.5" stop-color="#7B68EE"/>
+      <stop offset="1" stop-color="#C71585"/>
+      <animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="1440 0" dur="7s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="wflow2" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1440" y2="0">
+      <stop offset="0" stop-color="#7B68EE"/>
+      <stop offset="0.5" stop-color="#C71585"/>
+      <stop offset="1" stop-color="#7B68EE"/>
+      <animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="1440 0" dur="10s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1440" height="120" fill="#0D1117"/>
+
+  <!-- back wave hanging from top -->
+  <g opacity="0.4">
+    <path fill="url(#wflow2)" d="M0 34 Q 180 62 360 34 T 720 34 T 1080 34 T 1440 34 T 1800 34 T 2160 34 L2160 0 L0 0 Z">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-720 0" dur="12s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <!-- front wave -->
+  <path fill="url(#wflow)" opacity="0.92" d="M0 22 Q 180 48 360 22 T 720 22 T 1080 22 T 1440 22 T 1800 22 T 2160 22 L2160 0 L0 0 Z">
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="-720 0" dur="8s" repeatCount="indefinite"/>
+  </path>
+
+  <text x="720" y="80" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="21" font-weight="600" letter-spacing="2" fill="#E6EDF3">Thanks for visiting! &#11088;</text>
+</svg>
