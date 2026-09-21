@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Rishabh01487/Rishabh-s-Portfolio/master/assets/profile.jpeg" width="160" alt="Rishabh Gupta"/>
+  <img src="./assets/profile.jpeg" width="160" alt="Rishabh Gupta"/>
 </p>
 
 <p align="center">
